@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DirectChat-WhatsApp Chat w/o Contact</string>
+
+<!--              <string name="admob_app_id">ca-app-pub-5374504574366180~4378429139</string>-->
+<!--              <string name="banner_id_1">ca-app-pub-5374504574366180/1473064193</string>-->
+<!--        <string name="banner_id_2">ca-app-pub-5374504574366180/5247538111</string>-->
+    <!--    //test id-->
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id_1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_id_2">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
